@@ -1,4 +1,7 @@
+
 # Modified enhancer gene links 
+
+Creating_enh_gene_matrix_example.ipynb : Example showing how to creating an enhancer gene matrix from existing enhancerlist, genelist and enhancer predictions
 
 1. Get flanked regions 
 - get surrounding region of peaks
